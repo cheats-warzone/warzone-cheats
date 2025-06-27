@@ -8,16 +8,6 @@ Welcome to the ultimate **Warzone Cheat** experience. Gain a tactical edge in Ca
 
 ---
 
-## 🔗 Quick Links
-
-* [Features](#features)
-* [Advantages](#advantages-of-using-warzone-cheat)
-* [Installation Guide](#how-to-use-warzone-cheat)
-* [FAQ](#faq)
-* [Status](#cheat-status)
-
----
-
 ## ⚙️ Features
 
 ### 🎯 Aimbot
